@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+.heading {
+  padding-top: 15px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.input {
+  width: 20rem;
+  height: 2.6rem;
+  text-align: left;
+}
+
+.searchBtn {
+  margin-left: 10px;
+}

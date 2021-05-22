@@ -1,0 +1,34 @@
+.brandName {
+  font-size: 2rem;
+  padding-left: 7rem;
+}
+
+.brandLink {
+  color: white;
+}
+
+.brandLink:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.listItem1 {
+  font-size: 1.1rem;
+  margin-right: 20px;
+  color: white;
+}
+
+.listItem1:hover {
+  text-decoration: underline;
+  color: grey;
+}
+
+.listItem2 {
+  font-size: 1.1rem;
+  margin-right: 300px;
+  color: white;
+}
+
+.listItem2:hover {
+  color: grey;
+}
