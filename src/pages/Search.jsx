@@ -12,7 +12,7 @@ function Search() {
   };
 
   function searchClickHandler() {
-    fetch(`https://restcountries.eu/rest/v2/name/${userInput}`)
+    fetch(`https://restcountries.com/v2/name/${userInput}`)
       .then((response) => {
         return response.json();
       })
